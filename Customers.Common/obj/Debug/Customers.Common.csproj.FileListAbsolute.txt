@@ -1,0 +1,6 @@
+C:\Users\oc250074\source\repos\QFlowProject\Customers.Common\bin\Debug\Customers.Common.dll
+C:\Users\oc250074\source\repos\QFlowProject\Customers.Common\bin\Debug\Customers.Common.pdb
+C:\Users\oc250074\source\repos\QFlowProject\Customers.Common\obj\Debug\Customers.Common.csprojAssemblyReference.cache
+C:\Users\oc250074\source\repos\QFlowProject\Customers.Common\obj\Debug\Customers.Common.csproj.CoreCompileInputs.cache
+C:\Users\oc250074\source\repos\QFlowProject\Customers.Common\obj\Debug\Customers.Common.dll
+C:\Users\oc250074\source\repos\QFlowProject\Customers.Common\obj\Debug\Customers.Common.pdb

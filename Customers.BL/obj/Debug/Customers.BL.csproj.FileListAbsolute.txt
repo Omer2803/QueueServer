@@ -1,0 +1,14 @@
+C:\Users\oc250074\source\repos\QFlowProject\Customers.BL\bin\Debug\Customers.BL.dll
+C:\Users\oc250074\source\repos\QFlowProject\Customers.BL\bin\Debug\Customers.BL.pdb
+C:\Users\oc250074\source\repos\QFlowProject\Customers.BL\bin\Debug\Customers.Common.dll
+C:\Users\oc250074\source\repos\QFlowProject\Customers.BL\bin\Debug\Customers.DAL.dll
+C:\Users\oc250074\source\repos\QFlowProject\Customers.BL\bin\Debug\EntityFramework.dll
+C:\Users\oc250074\source\repos\QFlowProject\Customers.BL\bin\Debug\Customers.Common.pdb
+C:\Users\oc250074\source\repos\QFlowProject\Customers.BL\bin\Debug\Customers.DAL.pdb
+C:\Users\oc250074\source\repos\QFlowProject\Customers.BL\bin\Debug\Customers.DAL.dll.config
+C:\Users\oc250074\source\repos\QFlowProject\Customers.BL\bin\Debug\EntityFramework.xml
+C:\Users\oc250074\source\repos\QFlowProject\Customers.BL\obj\Debug\Customers.BL.csprojAssemblyReference.cache
+C:\Users\oc250074\source\repos\QFlowProject\Customers.BL\obj\Debug\Customers.BL.csproj.CoreCompileInputs.cache
+C:\Users\oc250074\source\repos\QFlowProject\Customers.BL\obj\Debug\Customers.BL.csproj.CopyComplete
+C:\Users\oc250074\source\repos\QFlowProject\Customers.BL\obj\Debug\Customers.BL.dll
+C:\Users\oc250074\source\repos\QFlowProject\Customers.BL\obj\Debug\Customers.BL.pdb

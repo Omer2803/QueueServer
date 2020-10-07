@@ -1,0 +1,14 @@
+C:\Users\oc250074\source\repos\QFlowProject\Customers.DAL\bin\Debug\Customers.DAL.dll.config
+C:\Users\oc250074\source\repos\QFlowProject\Customers.DAL\bin\Debug\Customers.DAL.dll
+C:\Users\oc250074\source\repos\QFlowProject\Customers.DAL\bin\Debug\Customers.DAL.pdb
+C:\Users\oc250074\source\repos\QFlowProject\Customers.DAL\bin\Debug\Customers.Common.dll
+C:\Users\oc250074\source\repos\QFlowProject\Customers.DAL\bin\Debug\EntityFramework.dll
+C:\Users\oc250074\source\repos\QFlowProject\Customers.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oc250074\source\repos\QFlowProject\Customers.DAL\bin\Debug\Customers.Common.pdb
+C:\Users\oc250074\source\repos\QFlowProject\Customers.DAL\bin\Debug\EntityFramework.xml
+C:\Users\oc250074\source\repos\QFlowProject\Customers.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oc250074\source\repos\QFlowProject\Customers.DAL\obj\Debug\Customers.DAL.csprojAssemblyReference.cache
+C:\Users\oc250074\source\repos\QFlowProject\Customers.DAL\obj\Debug\Customers.DAL.csproj.CoreCompileInputs.cache
+C:\Users\oc250074\source\repos\QFlowProject\Customers.DAL\obj\Debug\Customers.DAL.csproj.CopyComplete
+C:\Users\oc250074\source\repos\QFlowProject\Customers.DAL\obj\Debug\Customers.DAL.dll
+C:\Users\oc250074\source\repos\QFlowProject\Customers.DAL\obj\Debug\Customers.DAL.pdb
